@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Noise ColorFit Pulse 2 Smartwatch",
+    "price": "₹2,999",
+    "brand": "Noise",
+    "rating": 4.2,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.gJLz8N0RogF0-e_NYwk01wAAAA?pid=Api&P=0&h=180"
+  },
+  {
+    "id": 2,
+    "name": "boAt Xtend Pro Smartwatch",
+    "price": "₹3,499",
+    "brand": "boAt",
+    "rating": 4.3,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.N_zy2pvSryUQ2t0aW6fF7AHaDC?pid=Api&P=0&h=180"
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy Watch 4",
+    "price": "₹12,999",
+    "brand": "Samsung",
+    "rating": 4.6,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.d-77G7hmOGkHDQ__PP8CwgHaHa?pid=Api&P=0&h=180"
+  },
+  {
+    "id": 4,
+    "name": "Fire-Boltt Ninja Call Pro Plus",
+    "price": "₹1,799",
+    "brand": "Fire-Boltt",
+    "rating": 4.0,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.zyRaluhqvBgrbalfU2xpWgHaDC?pid=Api&P=0&h=180"
+  },
+  {
+    "id": 5,
+    "name": "Titan Smart 2",
+    "price": "₹4,999",
+    "brand": "Titan",
+    "rating": 4.4,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.9lA64wBZIb2YYLYe25imjQHaHa?pid=Api&P=0&h=180"
+}
+]
